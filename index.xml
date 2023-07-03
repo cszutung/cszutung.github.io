@@ -7,16 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://cszutung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://cszutung.github.io/curriculum-vitae/</link>
+      <title>Activities</title>
+      <link>https://cszutung.github.io/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cszutung.github.io/curriculum-vitae/</guid>
-      <description>Szu-Tung (Katniss) Chen Education University of Michigan (U of M) - Ann Arbor, MI 2022 - Present M.S. in Industrial and Operations Engineering (IOE)
-GPA: 4.0/4.0 National Tsing Hua University (NTHU) - Hsinchu, Taiwan 2018 - 2022 B.S. in Industrial Engineering and Engineering Management (IEEM)
-GPA: 3.96/4.3
-Ranking: top 10% Experiences Interaction and Collaboration Research Lab (ICRL) - U of M 2022 - Present Graduate Student Researcher
-Advisor: Prof. Xi Jessie Yang University of Michigan Transportation Research Institute 2023 - Present Graduate Student Researcher</description>
+      <guid>https://cszutung.github.io/activities/</guid>
+      <description>IOE Renovation Extended Committee 📍University of Michigan May 2023 - Present Masters Representative Class of 2022 Graduation Committee 📍National Tsing Hua University Nov. 2021 - Jun. 2022 Graduate Representative of IEEM Department
+Collaborated with graduate school representatives to arrange the IEEM commencement.Edited IEEM&amp;rsquo;s section of NTHU&amp;rsquo;s yearbook in collaboration with the NTHU graduation committee. Children&amp;rsquo;s Learn and Play Weekend Camp 📍National Tsing Hua University Jan. 2021 Vice President
+Led a team of 50 college students in designing educational lessons and activities for the weekend camp.</description>
     </item>
     
     <item>
@@ -26,18 +24,21 @@ Advisor: Prof. Xi Jessie Yang University of Michigan Transportation Research Ins
       
       <guid>https://cszutung.github.io/projects/seniorproject/</guid>
       <description>Advisor: Prof. Chien-Wei Wu
+Co-authors: Ying-Tung Yeh, Lucy Lin
 Abstract The advent of the 5G era has ushered in accelerated growth in AI, IoT, and autonomous vehicles. Taiwan, being a crucial entity in the global manufacturing supply chain, is witnessing a burgeoning semiconductor industry in response to these technological advancements. Nonetheless, this industry is substantially dependent on imported raw materials, a dependency that exposes it to potential disruptions due to external factors like trade conflicts or global crises such as the COVID-19 pandemic.</description>
     </item>
     
     <item>
-      <title>Extracurricular Activities</title>
-      <link>https://cszutung.github.io/extracurricular-activities/</link>
+      <title>Szu-Tung (Katniss) Chen</title>
+      <link>https://cszutung.github.io/curriculum-vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cszutung.github.io/extracurricular-activities/</guid>
-      <description>IOE Renovation Extended Committee 📍University of Michigan May 2023 - Present Masters Representative Class of 2022 Graduation Committee 📍National Tsing Hua University Nov. 2021 - Jun. 2022 Graduate Representative of IEEM Department
-Collaborated with graduate school representatives to arrange the IEEM commencement.Edited IEEM&amp;rsquo;s section of NTHU&amp;rsquo;s yearbook in collaboration with the NTHU graduation committee. Children&amp;rsquo;s Learn and Play Weekend Camp 📍National Tsing Hua University Jan. 2021 Vice President
-Led a team of 50 college students in designing educational lessons and activities for the weekend camp.</description>
+      <guid>https://cszutung.github.io/curriculum-vitae/</guid>
+      <description>Education University of Michigan (U of M) - Ann Arbor, MI 2022 - Present M.S. in Industrial and Operations Engineering (IOE)
+GPA: 4.0/4.0 National Tsing Hua University (NTHU) - Hsinchu, Taiwan 2018 - 2022 B.S. in Industrial Engineering and Engineering Management (IEEM)
+GPA: 3.96/4.3
+Ranking: top 10% Experiences Interaction and Collaboration Research Lab (ICRL) - U of M 2022 - Present Graduate Student Researcher
+Advisor: Prof. Xi Jessie Yang University of Michigan Transportation Research Institute 2023 - Present Graduate Student Researcher</description>
     </item>
     
   </channel>
