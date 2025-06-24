@@ -4,42 +4,347 @@
     <title>Szu-Tung Chen</title>
     <link>https://cszutung.github.io/</link>
     <description>Recent content on Szu-Tung Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cszutung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cszutung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activities</title>
       <link>https://cszutung.github.io/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://cszutung.github.io/activities/</guid>
-      <description>Class of 2022 Graduation Committee 📍National Tsing Hua University Nov. 2021 - Jun. 2022 Graduate Representative of IEEM Department
-Collaborated with graduate school representatives to arrange the IEEM commencement.Edited IEEM&amp;rsquo;s section of NTHU&amp;rsquo;s yearbook in collaboration with the NTHU graduation committee. Children&amp;rsquo;s Learn and Play Weekend Camp 📍National Tsing Hua University Jan. 2021 Vice President
-Led a team of 50 college students in designing educational lessons and activities for the weekend camp.</description>
+      <description>&lt;!--------- css ----------&gt;
+&lt;style&gt;
+td, th {
+   border: none!important;
+}
+&lt;/style&gt;
+&lt;!------------------------&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:17vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Human Factors and Ergonomics Society 📍University of Michigan&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Sep. 2024 - Present&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Webmaster of HFES@UofM&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Maintaining and updating the HFES@UofM websites and social media accounts.&lt;/li&gt;&lt;li&gt;Promoting HFES events to the university students.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Class of 2022 Graduation Committee 📍National Tsing Hua University&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Nov. 2021 - Jun. 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Graduate Representative of IEEM Department&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Collaborated with graduate school representatives to arrange the IEEM commencement.&lt;/li&gt;&lt;li&gt;Edited IEEM&amp;rsquo;s section of NTHU&amp;rsquo;s yearbook in collaboration with the NTHU graduation committee.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&#34;https://cszutung.github.io/IEEM_commencement_1.jpg&#34;  width=&#34;500px&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&#34;https://cszutung.github.io/IEEM_commencement_2.jpg&#34;  width=&#34;500px&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Children&amp;rsquo;s Learn and Play Weekend Camp 📍National Tsing Hua University&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Jan. 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Vice President&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Led a team of 50 college students in designing educational lessons and activities for the weekend camp.&lt;/li&gt;&lt;li&gt;Collaborated with school authorities and parents to ensure awareness and support for disabilities.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Student Association of IEEM Department 📍National Tsing Hua University&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Jul. 2019 - Jul. 2019&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Staff of Academic and Student Affair Department&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Organized and hosted reception for freshmen in IEEM.&lt;/li&gt;&lt;li&gt;Arranged the department student gathering of the academic year in IEEM.&lt;/li&gt;&lt;li&gt;Represented IEEM at the NTHU Engineering Camp.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;IEEM Summer Camp 📍National Tsing Hua University&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Jul. 2019&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Academic and Curriculum Design Team&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Delivered comprehensive lecture on Industrial Engineering, covering diverse topics such as Human Factors, Operations Research, Smart Manufacturing, and more to high school campers.&lt;/li&gt;&lt;li&gt;Designed and led the team in implementing work shop tour.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&#34;https://cszutung.github.io/IEEM_summer_camp_intro.jpeg&#34;  width=&#34;300px&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&#34;https://cszutung.github.io/IEEM_summer_camp_workshop.JPG&#34;  width=&#34;300px&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&#34;https://cszutung.github.io/IEEM_summer_camp_all.JPG&#34;  width=&#34;300px&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Debate Club 📍Taipei First Girls&amp;rsquo; High School&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Jun. 2016 - Jun. 2017&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;u&gt;Vice President&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;li&gt;Organized and hosted the freshman debate competition for top high schools in Taipei.&lt;/li&gt;&lt;li&gt;Organized and hosted the school freshman debate competition.&lt;/li&gt;&lt;li&gt;Mentored fellow students in preparing for debate competitions.&lt;/li&gt;&lt;li&gt;Achieved first place in the NTHU High School Debate Competition.&lt;/li&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
     <item>
       <title>Build Model and Develop GUI for Demand Forecast of Semiconductor Raw Materials</title>
       <link>https://cszutung.github.io/projects/seniorproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://cszutung.github.io/projects/seniorproject/</guid>
-      <description>Advisor: Prof. Chien-Wei Wu
-Co-authors: Ying-Tung Yeh, Lucy Lin
-Abstract The advent of the 5G era has ushered in accelerated growth in AI, IoT, and autonomous vehicles. Taiwan, being a crucial entity in the global manufacturing supply chain, is witnessing a burgeoning semiconductor industry in response to these technological advancements. Nonetheless, this industry is substantially dependent on imported raw materials, a dependency that exposes it to potential disruptions due to external factors like trade conflicts or global crises such as the COVID-19 pandemic.</description>
+      <description>&lt;p&gt;Advisor: Prof. Chien-Wei Wu&lt;/p&gt;
+&lt;p&gt;Co-authors: Ying-Tung Yeh, Lucy Lin&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The advent of the 5G era has ushered in accelerated growth in AI, IoT, and autonomous vehicles. Taiwan, being a crucial entity in the global manufacturing supply chain, is witnessing a burgeoning semiconductor industry in response to these technological advancements. Nonetheless, this industry is substantially dependent on imported raw materials, a dependency that exposes it to potential disruptions due to external factors like trade conflicts or global crises such as the COVID-19 pandemic. Thus, the imperative need arises for precise demand forecasting of these raw materials to prevent potential shortages and relieve inventory stress.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Szu-Tung (Katniss) Chen</title>
       <link>https://cszutung.github.io/curriculum-vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://cszutung.github.io/curriculum-vitae/</guid>
-      <description>Education University of Michigan (U of M) - Ann Arbor, MI 2022 - Present M.S. in Industrial and Operations Engineering (IOE)
-GPA: 4.0/4.0 National Tsing Hua University (NTHU) - Hsinchu, Taiwan 2018 - 2022 B.S. in Industrial Engineering and Engineering Management (IEEM)
-GPA: 3.96/4.3
-Ranking: top 10% Experiences Interaction and Collaboration Research Lab (ICRL) - U of M 2022 - Present Graduate Student Researcher
-Advisor: Prof. Xi Jessie Yang University of Michigan Transportation Research Institute 2023 - Present Graduate Student Researcher</description>
+      <description>&lt;!--------- css ----------&gt;
+&lt;style&gt;
+td, th {
+   border: none!important;
+}
+&lt;/style&gt;
+&lt;!------------------------&gt;
+&lt;!--------- Education ----------&gt;
+&lt;h2 id=&#34;education&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Education&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;University of Michigan (U of M) - Ann Arbor, MI&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2024 - Present&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ph.D. in Industrial and Operations Engineering (IOE)&lt;br&gt; GPA: 4.0/4.0&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;University of Michigan (U of M) - Ann Arbor, MI&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2022 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;M.S. in Industrial and Operations Engineering (IOE)&lt;br&gt; GPA: 4.0/4.0&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;National Tsing Hua University (NTHU) - Hsinchu, Taiwan&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2018 - 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;B.S. in Industrial Engineering and Engineering Management (IEEM)&lt;br&gt; GPA: 3.96/4.3&lt;br&gt; Ranking: top 10%&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------- Experiences ----------&gt;
+&lt;h2 id=&#34;experiences&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Experiences&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Cognitive Systems Engineering Lab  - U of M&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2024 - Present&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ph.D. Student &lt;br&gt;Advisor: Prof. Yili Liu&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Interaction and Collaboration Research Lab (ICRL) - U of M&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2022 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Graduate Student Researcher&lt;br&gt;Advisor: Prof. Xi Jessie Yang&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Stirling Group - U of M&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2023 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Graduate Student Researcher&lt;br&gt;Advisor: Prof. Leia Stirling&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;University of Michigan Transportation Research Institute&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2023 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Graduate Student Researcher&lt;br&gt;Advisor: Dr. Brian Lin&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lumentum Operations LLC&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Quality Engineer - Intern&lt;br&gt;Quality Control and ISO certification&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------- Research Projects ----------&gt;
+&lt;h2 id=&#34;research-projects&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Research Projects&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Improving User Adaptation of an Adaptive Controller for Enhanced Task Performance in Powered Upper Limb Exoskeletons&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2023 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Advisor: Prof. Leia Stirling&lt;br&gt;Mentor: Dr. Xiangyu Peng&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Exploring Trust and Performance in Human-Automation Interaction&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2022 - 2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Advisor: Prof. Xi Jessie Yang&lt;br&gt;Mentor: Jinyong Kim&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Enhancing Data-Driven Autonomous Driving: Exploring Human Perceived Collision Risk and Satisfaction for Overtaking Bicyclists&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Advisor: Dr. Brian Lin, Prof. Shan Bao&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Build Model and Develop GUI for Demand Forecast of Semiconductor Raw Materials&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2021 - 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Advisor: Prof. Chien-Wei Wu&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------- Honors ----------&gt;
+&lt;h2 id=&#34;honors&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Honors&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Academic Achievement Awards - 4-Time Winner&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2019 - 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Top 5% of the semester&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Annual Notable Topic Award of IEEM - Poster Section &amp;amp; Paper Section&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2021, 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Topic: Build Model and Develop GUI for Demand Forecast of Semiconductor Raw Materials&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Nebula Scholarship&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Select one from the class of 2022 of IEEM during the academic year based on comprehensive performances&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------- Talks ----------&gt;
+&lt;h2 id=&#34;publication&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Publication&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://dx.doi.org/10.7302/22224&#34;&gt;&lt;strong&gt;A data-driven autonomous driving system for overtaking bicyclists&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Brian TW Lin, Shan Bao, Huizhong Guo, Szu-Tung Chen, Tzu-Hsuan Chuang, Hao-Jie Su&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://doi.org/10.54941/ahfe1004412&#34;&gt;&lt;strong&gt;Exploring Trust and Performance in Human-Automation Interaction: Novel Perspectives on Incorrect Reassurances from Imperfect Automation&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jinyong Kim, Szu Tung Chen, Corey Lester, Xi Jessie Yang&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------- Skills ----------&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;span style=&#34;color:#FCAEAE&#34;&gt;&lt;u&gt;Skills&lt;/u&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Python, R, C/C++, MATLAB, HTML, CSS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Tobii Pro Lab, SPSS, AutoCAD, Autodesk Inventor, Minitab, LaTex, Git, Tensorflow&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Natural Languages&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Mandarin (Native)&lt;br&gt;English (Professional)&lt;br&gt;Korean (fluent, TOPIK: 5)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
   </channel>
 </rss>
