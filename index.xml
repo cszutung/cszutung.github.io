@@ -24,7 +24,7 @@ td, th {
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:17vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -130,8 +130,8 @@ td, th {
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:8vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -166,8 +166,8 @@ td, th {
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:8vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -218,8 +218,8 @@ td, th {
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:8vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -262,8 +262,8 @@ td, th {
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:8vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -298,8 +298,8 @@ td, th {
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;div style=&#34;width:45vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:12vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:40vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:8vw&#34;&gt;&lt;/div&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
